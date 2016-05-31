@@ -1,2 +1,3 @@
 # hello-world
-Hello world
+Hello World
+Committing changes to reporsitory
